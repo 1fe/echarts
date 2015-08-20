@@ -14,7 +14,7 @@
     "react-component"
   ],
   "dependencies": {
-    "zrender": "https://github.com/ecomfe/zrender/archive/2.1.1.tar.gz"
+    "zrender": "https://github.com/uooo/zrender/archive/2.1.1-webpack.tar.gz"
   },
   "repository": "git://github.com/uooo/echarts",
   "homepage": "http://echarts.baidu.com"
