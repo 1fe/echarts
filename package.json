@@ -13,6 +13,12 @@
     "canvas",
     "react-component"
   ],
+  "maintainers": [
+    { "name": "Kener", "email": "kener.linfeng@gmail.com" },
+    { "name": "Pissang", "email": "shenyi.914@gmail.com" },
+    { "name": "Erik", "email": "errorrik@gmail.com" },
+    { "name": "Yangji", "email": "511415343@qq.com" }
+  ],
   "dependencies": {
     "zrender": "https://github.com/uooo/zrender/archive/2.1.1-webpack.tar.gz"
   },
