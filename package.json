@@ -1,7 +1,7 @@
 {
   "name": "echarts",
   "description": "Enterprise Charts，Build for Webpack。基于Canvas，纯Javascript图表库，提供直观，生动，可交互，可个性化定制的数据可视化表。",
-  "version": "2.2.7-webpack1",
+  "version": "2.2.7-webpack-2",
   "scripts": {
   },
   "main": "echarts",
