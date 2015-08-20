@@ -1,9 +1,8 @@
 {
   "name": "echarts",
   "description": "Enterprise Charts，Build for Webpack。基于Canvas，纯Javascript图表库，提供直观，生动，可交互，可个性化定制的数据可视化表。",
-  "version": "2.2.7-webpack",
+  "version": "2.2.7-webpack1",
   "scripts": {
-    "postinstall": "npm install ./modules/zrender"
   },
   "main": "echarts",
   "keywords": [
@@ -15,6 +14,7 @@
     "react-component"
   ],
   "dependencies": {
+    "zrender": "https://github.com/ecomfe/zrender/archive/2.1.1.tar.gz"
   },
   "repository": "git://github.com/uooo/echarts",
   "homepage": "http://echarts.baidu.com"
