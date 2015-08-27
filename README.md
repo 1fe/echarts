@@ -1,6 +1,6 @@
 # ECharts
 
-[![NPM version][npm-badge]][npm] [![Gitter][gitter-badge]][gitter]
+[![NPM version][npm-badge]][npm] [![Build Status][travis-ci-image]][travis-ci-url] [![Gitter][gitter-badge]][gitter]
 
 [![Dependency Status][deps-badge]][deps]
 [![devDependency Status][dev-deps-badge]][dev-deps]
@@ -20,6 +20,9 @@
 
 [peer-deps-badge]: https://david-dm.org/uooo/echarts/peer-status.svg
 [peer-deps]: https://david-dm.org/uooo/echarts#info=peerDependencies 
+
+[travis-ci-image]: https://travis-ci.org/uooo/echarts.svg
+[travis-ci-url]: https://travis-ci.org/uooo/echarts
 
 ## Echarts with [webpack](https://github.com/webpack/webpack)
 
