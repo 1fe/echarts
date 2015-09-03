@@ -27,12 +27,12 @@
 ## Echarts with [webpack](https://github.com/webpack/webpack)
 
 ```sh
-npm install echarts@2.2.7-beta7
+npm install echarts
 ```
 
 ```js
-import echarts from 'echarts/src/echarts';
-import 'echarts/src/chart/wordCloud';
+import echarts from 'echarts/echarts';
+import 'echarts/chart/wordCloud';
 
 let mychart = echarts.init(dom);
 let charCloudOption = {...};
