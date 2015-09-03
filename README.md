@@ -24,11 +24,16 @@
 [travis-ci-image]: https://travis-ci.org/uooo/echarts.svg
 [travis-ci-url]: https://travis-ci.org/uooo/echarts
 
-## Echarts with [webpack](https://github.com/webpack/webpack)
+## Installation
+
+Using npm:
 
 ```sh
-npm install echarts
+$ {sudo -H} npm i -g npm
+$ npm i --save echarts
 ```
+
+in [webpack](https://github.com/webpack/webpack):
 
 ```js
 import echarts from 'echarts/echarts';
