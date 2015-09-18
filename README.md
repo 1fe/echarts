@@ -6,7 +6,7 @@
 [![devDependency Status][dev-deps-badge]][dev-deps]
 [![peerDependency Status][peer-deps-badge]][peer-deps]
 
-[npm-badge]: http://badge.fury.io/js/echarts/echarts.svg
+[npm-badge]: http://badge.fury.io/js/echarts.svg
 [npm]: http://badge.fury.io/js/echarts
 
 [gitter-badge]: https://img.shields.io/badge/gitter-join%20chat-f81a65.svg?style=flat-square
